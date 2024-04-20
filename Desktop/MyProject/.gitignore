@@ -1,0 +1,22 @@
+# Ignore all log files
+*.log
+
+# Ignore Python compiled files
+*.pyc
+
+# Ignore folders named "temp"
+temp/
+
+# Ignore all files in any directory named "bin"
+bin/
+
+# Ignore virtual environment directories
+venv/
+
+# Ignore Python bytecode
+__pycache__/
+
+# Ignore miscellaneous system files
+.DS_Store
+Thumbs.db
+
